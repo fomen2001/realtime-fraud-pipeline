@@ -1,0 +1,5 @@
+streamlit==1.32.2
+psycopg2-binary==2.9.9
+pandas==2.2.1
+plotly==5.19.0
+kafka-python==2.0.2
